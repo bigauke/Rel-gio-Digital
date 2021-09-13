@@ -1,2 +1,3 @@
-# Rel-gio-Digital
-Relógio digital
+
+#Relógio digital
+Projeto feito em HTML, Javascript e css.
